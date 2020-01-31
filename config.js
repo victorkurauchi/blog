@@ -31,6 +31,8 @@ module.exports = {
       twitter: 'victorkurauchi',
       github: 'victorkurauchi',
       medium: 'victorkurauchi',
+      instagram: 'victorkurauchi',
+      linkedin: 'victor-kurauchi-86b04229',
     }
   }
 };
