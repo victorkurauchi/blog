@@ -25,14 +25,12 @@ module.exports = {
   author: {
     name: 'Victor Kurauchi',
     photo: '/profile.png',
-    bio: 'Kind of creative. Curious about how web stuff works. Enjoy taking interesting photos, also kind of music addicted.',
+    bio: 'Kind of creative. Curious about how web stuff works. Enjoy taking (not so) interesting photos, also kind of music addicted.',
     contacts: {
       email: 'victorkurauchi@gmail.com',
-      telegram: '#',
       twitter: 'victorkurauchi',
       github: 'victorkurauchi',
-      rss: '#',
-      vkontakte: '#'
+      medium: 'victorkurauchi',
     }
   }
 };
